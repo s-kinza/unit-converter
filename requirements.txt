@@ -1,2 +1,4 @@
 streamlit
 pint
+pyttsx3
+SpeechRecognition 
